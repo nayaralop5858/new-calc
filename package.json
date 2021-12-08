@@ -1,0 +1,17 @@
+{
+  "name": "new-calc",
+  "version": "1.0.0",
+  "description": "calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "calc"
+  ],
+  "author": "Nayara",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
+}
